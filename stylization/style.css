@@ -600,7 +600,6 @@
     border: 1px solid var(--solo-blue);
   }
   .profile-bg-hero-wrapper {
-    background-image: url("https://solo.to/images/stars.jpg");
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3439,7 +3438,7 @@
   .select-field {
     background-color: var(--ultragrey);
     cursor: pointer;
-    background-image: url("https://solo.to/images/feature-arrow.svg");
+    background-image: url("../svg/feature-arrow.svg");
     background-position: 98%;
     background-repeat: no-repeat;
     background-size: auto 11px;
@@ -3810,7 +3809,7 @@
   }
   .style-logo-preview {
     background-color: #e6e6e6;
-    background-image: url("https://solo.to/images/checker.svg");
+    background-image: url("../svg/checker.svg");
     background-position: 0 0;
     background-size: 13px;
     border-radius: 1px;
@@ -6690,7 +6689,7 @@
     box-shadow: 0 14px 30px -5px #00000021;
   }
   .display-link-image {
-    background-image: url("https://solo.to/images/pexels-photo-2618782.jpg");
+    background-image: none;
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -6756,7 +6755,7 @@
   }
   .music-page-links-bg {
     filter: blur(25px);
-    background-image: url("https://solo.to/images/pexels-photo-4906295.jpg");
+    background-image: none;
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
@@ -6839,7 +6838,7 @@
   .payout-checkbox.w--redirected-checked {
     border-color: var(--solo-blue);
     background-color: var(--solo-blue);
-    background-image: url("https://solo.to/images/white-check.svg");
+    background-image: url("../svg/white-check.svg");
     background-position: 50%;
     background-size: 11px 10px;
   }
@@ -6976,7 +6975,6 @@
   }
   .tiktok-pattern-overlay {
     opacity: 0.1;
-    background-image: url("https://solo.to/images/tiktok-pattern.svg");
     background-position: 50%;
     background-size: 50px;
     position: absolute;
@@ -7113,7 +7111,7 @@
     margin-bottom: 25px;
   }
   .full-bg {
-    background-image: url("https://solo.to/images/pexels-guillaume-meurice-1894350.jpg");
+    background-image: none;
     background-position: 50%;
     background-size: auto;
     background-attachment: fixed;
@@ -7150,7 +7148,6 @@
     display: flex;
   }
   .nfc-hero-image-logo {
-    background-image: url("https://solo.to/images/solo.to.svg");
     background-position: 50%;
     background-size: cover;
     border: 1px solid #000;
@@ -7507,7 +7504,6 @@
   }
   .nfc-cta-details {
     border-right: 1px solid var(--toggle-grey);
-    background-image: url("https://solo.to/images/nfc-mockup-isometric.png");
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7703,7 +7699,6 @@
     position: relative;
   }
   .announcement-image {
-    background-image: url("https://solo.to/images/nfc-portal-indicator.png");
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7849,7 +7844,6 @@
   }
   .offer-item-image {
     border-right: 1px solid var(--toggle-grey);
-    background-image: url("https://solo.to/images/nfc-portal-indicator.png");
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -8114,7 +8108,7 @@
   }
   .profile-search-field {
     background-color: var(--white);
-    background-image: url("https://solo.to/images/search-icon.svg");
+    background-image: url("../svg/search-icon.svg");
     background-position: 12px;
     background-repeat: no-repeat;
     background-size: auto 20px;
@@ -8145,7 +8139,7 @@
   .profile-search-field.profile-search-field-dark {
     background-color: var(--off-black);
     color: var(--white);
-    background-image: url("https://solo.to/images/search-white.svg");
+    background-image: url("../svg/search-white.svg");
   }
   .profile-search-field.profile-search-field-dark:hover {
     border-left-color: #5c5c5c;
@@ -8160,7 +8154,7 @@
   .profile-search-field.profile-search-field-void {
     color: var(--white);
     background-color: #1a1a1a;
-    background-image: url("https://solo.to/images/search-white.svg");
+    background-image: url("../svg/search-white.svg");
   }
   .profile-search-field.profile-search-field-void:hover {
     border-left-color: #5c5c5c;
@@ -9652,7 +9646,6 @@
     display: flex;
   }
   .s1-phone-bg {
-    background-image: url("https://solo.to/images/s1-bg.jpg");
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -10258,7 +10251,7 @@
   }
   .billing-details-card-pattern {
     opacity: 0.5;
-    background-image: url("https://solo.to/images/bank-note.svg");
+    background-image: url("../svg/bank-note.svg");
     background-repeat: repeat;
     background-size: cover;
     position: absolute;
@@ -11496,7 +11489,6 @@
     z-index: 0;
     opacity: 0.06;
     filter: none;
-    background-image: url("https://solo.to/images/grid-pattern-dots.svg");
     background-position: 50% 0;
     background-size: 150px;
     position: absolute;
@@ -14098,7 +14090,6 @@
       grid-auto-columns: 1fr;
     }
     .profile-bg-hero-wrapper {
-      background-image: url("https://solo.to/images/stars.jpg");
       background-position: 50%;
       background-repeat: no-repeat;
       background-size: cover;
@@ -15745,7 +15736,6 @@
       border: 1px solid var(--solo-blue);
     }
     .profile-bg-hero-wrapper {
-      background-image: url("https://solo.to/images/stars.jpg");
       background-position: 50%;
       background-repeat: no-repeat;
       background-size: cover;
@@ -21835,7 +21825,7 @@
       box-shadow: 0 14px 30px -5px #00000021;
     }
     .display-link-image {
-      background-image: url("https://solo.to/images/pexels-photo-2618782.jpg");
+      background-image: none;
       background-position: 50%;
       background-repeat: no-repeat;
       background-size: cover;
@@ -21901,7 +21891,7 @@
     }
     .music-page-links-bg {
       filter: blur(25px);
-      background-image: url("https://solo.to/images/pexels-photo-4906295.jpg");
+      background-image: none;
       background-repeat: no-repeat;
       background-size: cover;
       position: absolute;
@@ -22250,7 +22240,7 @@
       margin-bottom: 25px;
     }
     .full-bg {
-      background-image: url("https://solo.to/images/pexels-guillaume-meurice-1894350.jpg");
+      background-image:  none;
       background-position: 50%;
       background-size: auto;
       background-attachment: fixed;
@@ -22628,7 +22618,6 @@
     }
     .nfc-cta-details {
       border-right: 1px solid var(--toggle-grey);
-      background-image: url("https://solo.to/images/nfc-mockup-isometric.png");
       background-position: 50%;
       background-repeat: no-repeat;
       background-size: cover;
@@ -22824,7 +22813,6 @@
       position: relative;
     }
     .announcement-image {
-      background-image: url("https://solo.to/images/nfc-portal-indicator.png");
       background-position: 50%;
       background-repeat: no-repeat;
       background-size: cover;
@@ -22970,7 +22958,6 @@
     }
     .offer-item-image {
       border-right: 1px solid var(--toggle-grey);
-      background-image: url("https://solo.to/images/nfc-portal-indicator.png");
       background-position: 50%;
       background-repeat: no-repeat;
       background-size: cover;
@@ -24773,7 +24760,6 @@
       display: flex;
     }
     .s1-phone-bg {
-      background-image: url("https://solo.to/images/s1-bg.jpg");
       background-position: 50%;
       background-repeat: no-repeat;
       background-size: cover;
