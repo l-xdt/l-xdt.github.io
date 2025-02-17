@@ -54,7 +54,7 @@ This is not the Demo, just how you acess it: [here](https://l-xdt.github.io).
 
 ![Screenshot 3](Screenshots/Screenshot_3.jpg)
 
-**Written in Vanilla/Plain HTML, CSS and JavaScript.**
+**Written in Vanilla/Plain HTML, CSS and JavaScript..**
 
 
 ## Run Locally
