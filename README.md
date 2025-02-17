@@ -48,11 +48,11 @@ This is not the Demo, just how you acess it: [here](https://l-xdt.github.io).
 
 ## Screenshots
 
-![Screenshot 1](Screenshots/Screenshot_1.jpg)
+![Screenshot 1](Screenshots/Screenshot_1.JPG)
 
-![Screenshot 2](Screenshots/Screenshot_2.jpg)
+![Screenshot 2](Screenshots/Screenshot_2.JPG)
 
-![Screenshot 3](Screenshots/Screenshot_3.jpg)
+![Screenshot 3](Screenshots/Screenshot_3.JPG)
 
 **Written in Vanilla/Plain HTML, CSS and JavaScript..**
 
